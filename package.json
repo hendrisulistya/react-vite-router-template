@@ -9,10 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@cosmos-kit/keplr": "^0.32.14",
     "@tabler/icons": "^1.117.0",
-    "antd": "^5.1.0",
-    "cosmos-client": "^0.42.14",
     "install": "^0.13.0",
     "npm": "^9.2.0",
     "react": "^18.2.0",
